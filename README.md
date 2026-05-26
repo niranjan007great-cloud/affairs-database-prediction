@@ -9,4 +9,4 @@ Split data into training and testing sets using an 80/20 ratio
 Applied Logistic Regression model for binary classification
 Evaluated model performance using accuracy score and confusion matrix
 Supports custom predictions by inputting individual demographic values
-Useful for understanding behavioral patterns in relationship data using supervised learnin
+Useful for understanding behavioral patterns in relationship data using supervised learning
